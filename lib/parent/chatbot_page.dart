@@ -13,7 +13,7 @@ class ChatbotPage extends StatefulWidget {
 class _ChatbotPageState extends State<ChatbotPage> {
   final TextEditingController _controller = TextEditingController();
   final List<String> _messages = [];
-  final String _apiKey = 'AIzaSyBCnVvCoS8zr9DMIYuGLsU2OHocfGrIrKY';
+  final String _apiKey = 'Your-Gemini-API-Key';
 
   // List of health-related keywords to validate questions
   final List<String> _healthKeywords = [
