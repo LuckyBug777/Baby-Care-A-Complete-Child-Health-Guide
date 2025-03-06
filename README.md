@@ -61,20 +61,15 @@
 ```sh
 git clone https://github.com/yourusername/baby-care-app.git
 cd baby-care-app
-# Baby Care App
-
-```
-git clone https://github.com/yourusername/baby-care-app.git
-cd baby-care-app
 ```
 
-## 🔹 Install Dependencies
-```
+### 🔹 Install Dependencies
+```sh
 flutter pub get
 ```
 
-## 🔹 Run the App
-```
+### 🔹 Run the App
+```sh
 flutter run
 ```
 
@@ -86,8 +81,10 @@ Contributions are welcome! If you'd like to improve this app, feel free to fork 
 
 ## 📬 Contact
 For queries or suggestions, reach out at:
-📧 Email: your-email@example.com
-🔗 GitHub: Your GitHub Profile
+📧 Email: cyberghostbug777@gmail.com
+🔗 GitHub: [LuckyBug777](https://github.com/LuckyBug777)
+
+---
 
 # 📖 Early Childhood Development Tracking Using Machine Learning or Deep Learning
 
